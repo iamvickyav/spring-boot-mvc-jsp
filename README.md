@@ -15,7 +15,7 @@ spring.mvc.view.prefix=/WEB-INF/pages/
 spring.mvc.view.suffix=.jsp
 ```
 
-Add Tomcat Embed Jasper to parse JSP (We used 9.0.8 version)
+Add Tomcat Embed Jasper to parse JSP
 
 Prefer the latest version from https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-jasper 
 
